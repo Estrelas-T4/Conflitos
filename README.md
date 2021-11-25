@@ -3,6 +3,7 @@
 -----
 
 - Vinicius Ferreira
+<<<<<<< HEAD
 - Xablau
 - Gislaine Gavlak
 - Rafael Santos
@@ -24,4 +25,10 @@
 - Arê Nascimento
 - Lurrégia Barreto Adão
 - Karen Almeida
+<<<<<<< HEAD
 - Larissa Novais
+=======
+=======
+- Elaine
+>>>>>>> 8db5110 (adicionando meu nome)
+>>>>>>> 59a2729 (adicionando meu nome)
