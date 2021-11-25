@@ -3,6 +3,7 @@
 -----
 
 - Vinicius Ferreira
+<<<<<<< HEAD
 - Xablau
 - Gislaine Gavlak
 - Rafael Santos
@@ -18,3 +19,6 @@
 - Dorayen Carrasquel
 - Barbara Queiroz
 - Márcio Viana
+=======
+- Larissa Novais
+>>>>>>> d53a78e (Adicionar nome Larissa)
