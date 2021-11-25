@@ -15,4 +15,5 @@
 - Vanessa Lima
 - Michelle Kênia
 - Jeyciane Faria
+- Bárbara Ann Pereira Lima
 
