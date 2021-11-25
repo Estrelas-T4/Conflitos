@@ -21,3 +21,6 @@
 - Anna Karolyne
 - Debora Rodrigues
 - Evellyin Helenoir
+- Arê Nascimento
+- Lurrégia Barreto Adão
+- Karen Almeida
