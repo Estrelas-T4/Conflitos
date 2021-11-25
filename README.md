@@ -24,3 +24,4 @@
 - Arê Nascimento
 - Lurrégia Barreto Adão
 - Karen Almeida
+- Larissa Novais
