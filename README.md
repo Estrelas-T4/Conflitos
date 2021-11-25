@@ -21,3 +21,5 @@
 - Anna Karolyne
 - Debora Rodrigues
 - Evellyin Helenoir
+- Arê Nascimento
+
