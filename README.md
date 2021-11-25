@@ -23,3 +23,4 @@
 - Evellyin Helenoir
 - Arê Nascimento
 - Lurrégia Barreto Adão
+- Karen Almeida
